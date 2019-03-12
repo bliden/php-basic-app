@@ -1,5 +1,8 @@
 <?php
 
+// this of course should NOT be checked in
+// I'm leaving it in the repo for an example
+
 return [
   'database' => [
     'name' => 'laracastsTodo',
